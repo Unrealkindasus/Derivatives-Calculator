@@ -1,2 +1,2 @@
-# Derivatives-Calculator
-A C++ script to calculate derivatives
+The given code is a C++ script that performs symbolic differentiation to calculate derivatives. It allows user interaction by requesting input for a coefficient, an exponent, and a specific value for 'x'. The script applies the power rule of differentiation, which states that the derivative of a power function is obtained by multiplying the coefficient by the exponent, and then raising 'x' to the power of 
+(exponent - 1). By leveraging this rule, the script computes the derivative of a function at the specified 'x' value. The resulting derivative represents the instantaneous rate of change of the function at that point. This code serves as a foundation for basic symbolic differentiation, which is a fundamental concept in calculus and mathematical analysis. It can be extended and customized to handle more complex functions and differentiate them to different variables.
